@@ -30,6 +30,7 @@
 3.1.1.7 [Завершение маршрута](#finish_trip)  
 3.1.1.8 [Статистика других игроков](#statistics_of_other_users)  
 3.1.1.9 [Выход зарегистрированного пользователя из учётной записи](#active_user_change)
+
 3.1.2 [Ограничения и исключения](#restrictions_and_exclusions)  
 3.2 [Нефункциональные требования](#non-functional_requirements)  
 3.2.1 [Атрибуты качества](#quality_attributes)  
